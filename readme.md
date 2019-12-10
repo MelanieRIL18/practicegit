@@ -33,3 +33,4 @@ On va maintenant changer ce template afin de faire un petit mémo des commandes 
 Mais Jamy c'est quoi une Pull Request ?
 Une pull request c'est une demande de fusion entre 2 branch qui se gère sur github.
 Elle permet de vérifier le code et de laisser quelqu'un valider ses modifications.
+Il restera qu'à la valider ;)
